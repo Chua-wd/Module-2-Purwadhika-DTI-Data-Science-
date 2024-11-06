@@ -1,4 +1,5 @@
 **BACKGROUND**
+
 Amazon Web Services (AWS) is a comprehensive and widely adopted cloud platform that offers a variety of infrastructure and application services. As part of its offerings, AWS provides Software-as-a-Service (SaaS) solutions designed to help businesses develop their products in a scalable and efficient manner. AWS SaaS is a developed product that allows organizations to deploy applications quickly, enhance operational efficiency, and foster innovation, making it suitable for startups and large enterprises alike​.
 
 The AWS SaaS approach promotes agility by providing tools and best practices that assist companies in building, migrating, and modernizing their applications on the cloud. This flexibility enables organizations to address customer challenges effectively while ensuring security and compliance across different industries. By leveraging the AWS Marketplace, companies can further expand their reach and revenue, highlighting the potential for significant growth in the SaaS market​.
@@ -17,10 +18,12 @@ Here are the use cases that will be examined:
 2. Correlation Analysis: Exploring the Relationship Between Discounts, Quantity, Sales Volume, and Profit in APJ to determine if discounting strategies are reducing profit margins.
 
 **[Problem Statement]**
+
 As a data analyst, we will attempt to answer the following:
 - What specific strategies can be implemented to increase the profitability of the APJ region from 3% to 12% within the next 3 years?
 
 **Data Understanding**
+
 The data provides informationAWS SaaS Sales and consists of 19 columns, which include:
 1. Row ID: A unique identifier for each transaction.
 2. Order ID: A unique identifier for each order.
@@ -43,6 +46,7 @@ The data provides informationAWS SaaS Sales and consists of 19 columns, which in
 19. Profit: The profit from the transaction.
 
 **SUMMARY & RECOMMENDATION**
+
 Summaries:
 - Compared to AMER and EMEA, APJ has the lowest total sales, average transaction size, and profit margin, while having the highest average discount.For profit margin, only APJ has an overall negative value.
 - In the APJ region, every market segment and industry shows a negative value.
